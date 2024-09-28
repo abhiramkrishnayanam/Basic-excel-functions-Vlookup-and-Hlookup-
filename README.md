@@ -1,5 +1,5 @@
 # Basic-excel-functions-Vlookup-and-Hlookup-
-As part of the 75-day Data Analysis Challenge associated with Entry Elevate, by Abhiram K
+As part of the 75-day Data Analysis Challenge associated with Entry Elevate, 
 
 I’ve completed Day 1 and Day 2!
 
