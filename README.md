@@ -4,6 +4,7 @@ As part of the 75-day Data Analysis Challenge associated with Entry Elevate, by 
 I’ve completed Day 1 and Day 2!
 
 Here I focused on mastering Excel’s basic functions such as
+
 SUM/SUMIF/SUMIFS
 
 AVERAGE/AVERAGEIF/AVERAGEIFS
