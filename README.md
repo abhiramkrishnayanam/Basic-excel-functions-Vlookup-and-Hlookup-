@@ -1,6 +1,8 @@
 # Basic-excel-functions-Vlookup-and-Hlookup-
-As part of the 75-day Data Analysis Challenge by Nabil Shajahan,
+As part of the 75-day Data Analysis Challenge by Abhiram K
+
 I’ve completed Day 1 and Day 2!
+
 Here I focused on mastering Excel’s basic functions such as
 SUM/SUMIF/SUMIFS
 AVERAGE/AVERAGEIF/AVERAGEIFS
